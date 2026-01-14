@@ -67,3 +67,6 @@ composer.phar
 # PHP error logs
 php_error.log
 error_log
+
+ramseyscandal/
+
